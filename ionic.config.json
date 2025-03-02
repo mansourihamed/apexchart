@@ -1,0 +1,7 @@
+{
+  "name": "apexx",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
